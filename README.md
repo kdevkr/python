@@ -20,5 +20,5 @@ uv run
 
 ```powershell
 # uv pip freeze > requirements.txt
-uv export --no-hashes --format requirements-txt
+uv export --no-hashes --format requirements-txt > requirements.txt
 ```
