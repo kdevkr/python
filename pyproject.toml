@@ -9,6 +9,7 @@ dependencies = [
     "awsiotsdk>=1.24.0",
     "fastapi[standard]>=0.115.14",
     "httpx>=0.28.1",
+    "pykx>=3.1.4",
     "python-dotenv>=1.1.1",
     "redis>=6.2.0",
 ]
